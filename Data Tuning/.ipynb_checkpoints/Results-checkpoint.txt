@@ -1,1 +1,0 @@
-epochs= 75 || NDGCatK=0.00494900372305663 || HitatK=0.0066 || accuracy=0.9565775990486145 || loss=0.1466471254825592 || computational time=12958.959064483643 seconds  
