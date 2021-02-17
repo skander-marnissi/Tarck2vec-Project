@@ -7,7 +7,7 @@ To know more about word2vec and these data you can read the two following refere
 - Efficient estimation of word representations in vector space, Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. (https://arxiv.org/abs/1301.3781)
 - Word2with applied to Recommendation: Hyperparameters Matter, H. Caselles-Dupré, F. Lesaint and J. Royo-Letelier. (https://arxiv.org/pdf/1804.04212.pdf)
 
-The elements you have to do are highlighted in red.
+**Note: Check the Project_Report.pdf  for more informations.**
 
 ## Installation
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 ##Usage: 
 
-### Step 1: Open you jupiter notebook.
+### Step 1: Open you Jupyter Notebook.
 
 ### Step 2: Execute the hall file.
 
